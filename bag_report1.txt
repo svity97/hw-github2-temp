@@ -1,0 +1,11 @@
+ID:26
+Severety: Major
+Enviroment:Windows 11 Pro, Chrome 112
+Title: On the "Demo account" page, when click on the [Google Play] button on the video banner "Open a demo trading account" and the banner "Ready to trade in the global market?" you are redirected to the App Store instead of Google Play
+Steps: 1. Navigate to capital.com
+2. Hover on the menu section [Ways to trade]
+3. Click on the menu [Demo account]
+4. Scroll down to video banner "Open a demo trading account" or banner "Ready to trade in the global market?"
+5. Click on the button [Get it on Google Play]
+Expectet result: Redirection to the application page in Google Play
+Actual result: Redirection: to the application page in App Store
